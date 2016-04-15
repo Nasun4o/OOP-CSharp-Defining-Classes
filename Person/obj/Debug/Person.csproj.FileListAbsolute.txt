@@ -1,0 +1,12 @@
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Person\bin\Debug\Person.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\Person\bin\Debug\Person.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\Person\bin\Debug\Person.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\Person\obj\Debug\Person.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\Person\obj\Debug\Person.pdb
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\Person\bin\Debug\Person.exe.config
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\Person\obj\Debug\Person.exe
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\Person\obj\Debug\Person.pdb
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\Person\bin\Debug\Person.exe
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\Person\bin\Debug\Person.pdb
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache

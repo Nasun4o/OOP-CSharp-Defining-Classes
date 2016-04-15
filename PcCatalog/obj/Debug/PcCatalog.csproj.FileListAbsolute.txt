@@ -1,0 +1,12 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeworkDefiningClasses\PcCatalog\bin\Debug\PcCatalog.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeworkDefiningClasses\PcCatalog\bin\Debug\PcCatalog.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeworkDefiningClasses\PcCatalog\bin\Debug\PcCatalog.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeworkDefiningClasses\PcCatalog\obj\Debug\PcCatalog.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeworkDefiningClasses\PcCatalog\obj\Debug\PcCatalog.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeworkDefiningClasses\PcCatalog\obj\Debug\PcCatalog.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\PcCatalog\bin\Debug\PcCatalog.exe.config
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\PcCatalog\obj\Debug\PcCatalog.exe
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\PcCatalog\obj\Debug\PcCatalog.pdb
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\PcCatalog\bin\Debug\PcCatalog.exe
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\PcCatalog\bin\Debug\PcCatalog.pdb
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\PcCatalog\obj\Debug\PcCatalog.csprojResolveAssemblyReference.cache

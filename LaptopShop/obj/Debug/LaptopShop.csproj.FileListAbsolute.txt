@@ -1,0 +1,12 @@
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\LaptopShop\bin\Debug\LaptopShop.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\LaptopShop\bin\Debug\LaptopShop.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\LaptopShop\bin\Debug\LaptopShop.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\LaptopShop\obj\Debug\LaptopShop.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\HomeworkDefiningClasses\LaptopShop\obj\Debug\LaptopShop.pdb
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\LaptopShop\bin\Debug\LaptopShop.exe.config
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\LaptopShop\obj\Debug\LaptopShop.exe
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\LaptopShop\obj\Debug\LaptopShop.pdb
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\LaptopShop\bin\Debug\LaptopShop.exe
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\LaptopShop\bin\Debug\LaptopShop.pdb
+C:\Users\PC-PC\Desktop\OOP-CSharp-Defining-Classes\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
